@@ -5,7 +5,7 @@
 3. Access Files
 4. Access Peripherals
 
-![WhyPointer](WhyPointer.png)
+![WhyPointers](WhyPointers.png)
 
 # Reference
 - [Why Pointers?](https://www.youtube.com/watch?v=OqLt2GfX6jg)
