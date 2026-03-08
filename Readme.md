@@ -14,7 +14,7 @@ Personal C reference Book, diving into the underlying mechanism of C.
 - [x] Ch6 Arrays
 - [x] Ch7 Strings
 - [x] Ch8 Structs
-- [ ] Ch11 Pointers II: Arithmetic
+- [x] Ch11 Pointers II: Arithmetic and Void Pointer
 - [ ] Ch12 Manial Memory Allocation
 - [ ] Ch37 Fixed Width Integer Types
 
